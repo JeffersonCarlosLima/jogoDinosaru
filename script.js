@@ -39,6 +39,7 @@ function jumpDino() {
     }, 20);
 
 }
+
 function generateCactus() {
     const cactus = document.createElement('div');
     let cactusPosition = 1000; // Alterado para let
